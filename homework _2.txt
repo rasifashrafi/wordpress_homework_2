@@ -1,0 +1,28 @@
+1. How would you make all the sections (picture, bio, education, experience, language, etc.) editable from the WordPress admin? 
+Are you going to create a different post for each section or add WordPress specific data types or another solution? 
+Please explain your solution for each section and the reason you plan to do it this way.
+
+ANS: 	I am going to use Oxygen to make all the sections.
+	I am going to add wordpress specific data types.
+	I am going to use different tools of oxygen. For example, in Oxygen I use image for pictures, I am going to put bio,experience, education etc
+	inside of a div as text.
+
+2. How are you going to add the project images? 
+Are you going to use a different data type for the images or treat posts with features images differently on the WP loop, or another solution?
+
+ANS: 	I am going to use image section in from oxygen. If I need to use extra image, I will use html img tag(<img>"image(url)>). 
+
+3.How are you going to document the theme so other people understand how to use it right away? 
+Have into account this theme may be used by our own wheel one students later.
+
+ANS: 	I have created my theme for freelauncer, deverlopers, designer, small business, personal portfolio etc.It is fully responsive. 
+
+	
+	Template Features:
+	
+Fully responsive at any device and it will fit in any device, 
+	Easy to customize.
+	Modern and stylish with responsible navigation menu
+	responsive contract form is available.
+	All the social media icons included and those are active.
+		
